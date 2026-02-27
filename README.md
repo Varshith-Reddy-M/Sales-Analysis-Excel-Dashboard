@@ -10,26 +10,22 @@ To analyze sales data and identify key revenue drivers using Excel.
 - Excel Charts and Slicers
 
 ## KPIs
-- Net Revenue
-- Gross Revenue
+- Sales
 - Average Order Value (AOV)
-- Return Rate
-- Average Discount
   
 ## Analysis Performed
 - Revenue by Region
-- Revenue by Product
+- Revenue by Product Category
 - Revenue by Time (Year,Quarter)
-- Return Analysis
-- Average delivery time by Region
+- Discount according to Payment Type
 
-<img width="1508" height="645" alt="Dashboard" src="https://github.com/user-attachments/assets/00768634-5c80-44b4-883a-ae623429a06d" />
+<img width="1822" height="708" alt="Dashboard" src="https://github.com/user-attachments/assets/53273035-83d4-421b-bfad-e83bfe9806b2" />
 
 ## Key Insights
-- Identified top-performing products
+- Identified top-performing product category
 - Observed customer purchasing behavior using AOV
-- Analyzed return patterns across regions
-- Compared revenue for coupon vs non-coupon orders
+- Analyzed revenue according to quarters of year
+- Compared sales for retail and online customers
 
 ## Conclusion
 This project demonstrates end-to-end data cleaning, analysis, and dashboard creation using Excel.
